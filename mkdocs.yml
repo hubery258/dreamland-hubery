@@ -2,10 +2,10 @@ site_name: Hubery's Dreamland
 site_url: https://hubery258.github.io/dreamland-hubery/
 nav:
   - CS:
-    - c程: CS/C_language.md
-    - CS50X: CS/CS50x/index.md
+    - c程: cs/c_language.md
+    - CS50X: cs/cs50x/index.md
   - About Me:
-    - 随笔: Life/Pieces/index.md
-    - Reading: Life/Reading/index.md
+    - 随笔: life/pieces/index.md
+    - Reading: life/reading/index.md
 theme:
   name: material
