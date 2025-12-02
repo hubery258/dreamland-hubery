@@ -4,8 +4,12 @@ nav:
   - CS:
     - c程: cs/c_language.md
     - CS50X: cs/cs50x/index.md
-  - About Me:
-    - 随笔: life/pieces/index.md
-    - Reading: life/reading/index.md
+    - Computer Science Crash Course: cs/cs速成.md
+  - 文思录:
+    - 随笔: 
+      - 25·11: life/pieces/25_11.md
+      - 25·12: life/pieces/25_12.md
+    - Reading: 
+      - 读书论坛: life/reading/好趣味与坏艺术讲座.md
 theme:
   name: material
