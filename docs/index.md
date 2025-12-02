@@ -11,10 +11,10 @@ For me, Computer Science opens a dreamlike world where I can freely build, creat
 
 - 🔭 Currently, I'm working on developing my first software for expense tracking.
 - Hobbies:
- - 💻 **Independent software development**
- - 📚 **Reading and Writing**: My favorite writers are Wang Zengqi and Camus and Foucault.
- - 🛹 **Skateboarding**: now I can do Ollie and Pop Shuvit !
- - 🎵 **Music**：I'm working on my first song, my favorite singers are The Crane and Daniel Caesar.
+    - 💻 **Independent software development**
+    - 📚 **Reading and Writing**: My favorite writers are Wang Zengqi and Camus and Foucault.
+    - 🛹 **Skateboarding**: now I can do Ollie and Pop Shuvit !
+    - 🎵 **Music**：I'm working on my first song, my favorite singers are The Crane and Daniel Caesar.
 
 If you find my soul interesting, welcome to contact me!
 
