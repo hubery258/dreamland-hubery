@@ -5,13 +5,17 @@ nav:
     - c程: cs/c_language.md
     - CS50X: cs/cs50x/index.md
     - Computer Science Crash Course: cs/cs速成.md
-  - 文思录:
+  - 文:
     - 千问集: life/question.md
     - 随笔: 
       - 25·11: life/pieces/25_11.md
       - 25·12: life/pieces/25_12.md
     - Reading: 
-      - 读书论坛: life/reading/好趣味与坏艺术讲座.md
+      - 一次讲座: life/reading/好趣味与坏艺术讲座.md
       - 当尼采哭泣: life/reading/nicai.md
+      - 堕落 流放与王国: life/reading/camus1.md
+      - 在绝望之巅: life/reading/despair.md
+      - 我不在意人类的失败: life/reading/failure.md
+      - 将熟悉变为陌生: life/reading/strange.md
 theme:
   name: material
