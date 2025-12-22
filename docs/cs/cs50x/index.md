@@ -4,20 +4,20 @@
 - *但是后几节课会感觉量太大只开了个头，还是需要自己多读读课上提到的文档进一步学一点，然后看着每节课的源代码去做做笔记的。*
 
 [课堂源代码，我的笔记和解题代码汇总](https://github.com/hubery258/2025CS50X-note-solution)<br>
-[2025视频链接]（https://www.youtube.com/watch?v=h6lqxDwUmJQ）<br>
+[2025视频链接](https://www.youtube.com/watch?v=h6lqxDwUmJQ)<br>
 [课程官网](https://cs50.harvard.edu/x/)
 
 - *加入课程的方式在课程官网中，在学习如何加入课程的过程中顺便学学英语吧~*
 
 ## 课堂上提到的网站
-[cs50 manual pages](https://manual.cs50.io/)
-[SQL style guide](https://www.sqlstyle.guide/)
-[HTML,css](https://www.w3schools.com/tags/ref_attributes.asp)
-[语言学习平台](https://pathfinder.w3schools.com/)
-[python](https://docs.python.org/3/)
-[Flask documentation](https://flask.palletsprojects.com/)
-[AJAX documentation(about API)](https://api.jquery.com/category/ajax/)
-[JSON documentation](https://www.json.org/json-en.html)
-[正则](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)
-[Bootstrap](https://getbootstrap.com/docs/)
+[cs50 manual pages](https://manual.cs50.io/)<br>
+[SQL style guide](https://www.sqlstyle.guide/)<br>
+[HTML,css](https://www.w3schools.com/tags/ref_attributes.asp)<br>
+[语言学习平台](https://pathfinder.w3schools.com/)<br>
+[python](https://docs.python.org/3/)<br>
+[Flask documentation](https://flask.palletsprojects.com/)<br>
+[AJAX documentation(about API)](https://api.jquery.com/category/ajax/)<br>
+[JSON documentation](https://www.json.org/json-en.html)<br>
+[正则](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_expressions)<br>
+[Bootstrap](https://getbootstrap.com/docs/)<br>
 [JavaScript documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
