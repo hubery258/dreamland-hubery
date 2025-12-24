@@ -17,5 +17,7 @@ nav:
       - 在绝望之巅: life/reading/despair.md
       - 我不在意人类的失败: life/reading/failure.md
       - 将熟悉变为陌生: life/reading/strange.md
+    - Music:
+      - 26年1月: life/music/26_1.md
 theme:
   name: material
