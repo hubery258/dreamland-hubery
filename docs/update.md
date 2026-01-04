@@ -3,4 +3,8 @@
 - 更新一下c程课程笔记
 - 把cs50x的笔记传一下
 - 更新一下index模块里面，增加一个那种模板框：就是他们大佬的那种结构，然后加一个“Currently updated”和“Currently working on...”这样子
-- 把mkdocs做的更好看一些
+- 把mkdocs做的更好看一些,加一个wechat的social
+- plugin没处理好，搜索功能再等等
+- 框的效果是一个extension，到时候直接看看官方文档就行，ado...什么东西吧
+
+- 或许我会把大英默写器改进一下：给出错误答案，以及可以直接导出
