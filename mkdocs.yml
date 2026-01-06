@@ -69,9 +69,13 @@ nav:
     - CS50X: cs/CS50X.md
     - Computer Science Crash Course: cs/cs速成.md
     - mkdocs配置: cs/mkdocs.md
+  - ZJU:
+    - 课程经验: school/zju.md
+  - project:
+    - Simple Tasker: project/simpletasker.md
   - blog:
     - 千问集: life/question.md
-    - 随笔: 
+    - daily blog: 
       - 25·11: life/pieces/25_11.md
       - 25·12: life/pieces/25_12.md
       - 26·1: life/pieces/26_1.md
