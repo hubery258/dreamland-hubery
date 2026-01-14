@@ -28,4 +28,4 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
     2026/1/14 
 
 ??? note "blog的更新预告"
-    为mkdocs增加语言翻译模块，增加c程笔记，增加wechat的social选项，补充文章显示发布时间，增加评论区。后面考虑加友链。
+    为mkdocs增加语言翻译模块，增加c程笔记，增加wechat的social选项，补充文章显示发布时间，增加评论区。后面考虑加友链,完整写写目前mkdocs配置的笔记。
