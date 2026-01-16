@@ -25,3 +25,6 @@ If you find my soul interesting, welcome to contact me!
 [豆瓣](https://www.douban.com/people/258193304)<br>
 email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
  or [ramenboy233@gmail.com](mailto:ramenboy233@gmail.com)  <br>
+
+!!! info "lateset updated"
+    2026/1/16 
