@@ -78,10 +78,11 @@ repo_name: dreamland-hubery
 
 nav:
   - CS:
-    - c程: cs/c_language.md
     - CS50X: cs/CS50X.md
     - Computer Science Crash Course: cs/cs速成.md
     - mkdocs配置: cs/mkdocs.md
+    - Missing Semester:
+      - lec1 SHELL: cs/Missing Semester/lec1.md 
   - ZJU:
     - 大一课程经验: school/zju.md
   - project:
