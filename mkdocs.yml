@@ -82,7 +82,8 @@ nav:
     - Computer Science Crash Course: cs/cs速成.md
     - mkdocs配置: cs/mkdocs.md
     - Missing Semester:
-      - lec1 SHELL: cs/Missing Semester/lec1.md 
+      - lec1 SHELL: cs/Missing Semester/lec1.md
+      - lec2 SHELL脚本: cs/Missing Semester/lec2.md 
   - ZJU:
     - 大一课程经验: school/zju.md
   - project:
