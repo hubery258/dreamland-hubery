@@ -1,6 +1,7 @@
 # lec1: shell
 
-[课程连接](https://missing-semester-cn.github.io/2020/course-shell/)
+[课程连接](https://missing-semester-cn.github.io/2020/course-shell/)<br>
+[下载笔记(目前更新到lec2)](https://github.com/hubery258/Missing-Semester/archive/refs/heads/main.zip)
 
 ## shell是什么？
 可理解为与电脑进行交互的面板（接口），最流行的一种:bash
