@@ -84,6 +84,7 @@ nav:
     - Missing Semester:
       - lec1 SHELL: cs/Missing Semester/lec1.md
       - lec2 SHELL脚本: cs/Missing Semester/lec2.md 
+      - lec3 Vim: cs/Missing Semester/lec3.md
   - ZJU:
     - 大一课程经验: school/zju.md
   - project:
