@@ -82,10 +82,12 @@ nav:
     - Computer Science Crash Course: cs/cs速成.md
     - mkdocs配置: cs/mkdocs.md
     - Missing Semester:
+      - git: cs/Missing Semester/git.md
       - lec1 SHELL: cs/Missing Semester/lec1.md
       - lec2 SHELL脚本: cs/Missing Semester/lec2.md 
       - lec3 Vim: cs/Missing Semester/lec3.md
       - lec4 数据处理: cs/Missing Semester/lec4.md
+      - lec6 git: cs/Missing Semester/lec6.md
   - ZJU:
     - 大一课程经验: school/zju.md
   - project:
@@ -104,5 +106,8 @@ nav:
       - 我不在意人类的失败: life/reading/failure.md
       - 将熟悉变为陌生: life/reading/strange.md
       - 罪与罚: life/reading/crime.md
+      - 福格行为模型: life/reading/action.md
     - Music:
       - 26年1月: life/music/26_1.md
+    - 思想笔记:
+      - 自律: lfie/note/focus.md
