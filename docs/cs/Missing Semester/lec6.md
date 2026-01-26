@@ -31,8 +31,8 @@ Git 仓库：`对象` 和 `引用`。
 ## 课后习题
 
 第二题:
-1. `git clone ...`
-2. `git log | grep -A 5 -B 5 "README.md"`查找到`seven_bear`,查`man git-log`改进：`git log --follow README.md`,人没变。
+1. `git clone ...`<br>
+2. `git log | grep -A 5 -B 5 "README.md"`查找到`seven_bear`,查`man git-log`改进：`git log --follow README.md`,人没变。<br>
 3. `git blame _config.yml`直接确认时间最晚的，然后把hash值复制到`git show ...`的...处可直接看到内容
 ???+ info "对show内容的解释"
     ```bash
