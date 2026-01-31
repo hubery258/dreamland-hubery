@@ -1,7 +1,7 @@
 # lec1: shell
 
 [课程连接](https://missing-semester-cn.github.io/2020/course-shell/)<br>
-[直接下载笔记(更新至lec4)](https://github.com/hubery258/Missing-Semester/archive/refs/heads/main.zip)<br>
+[直接下载笔记(更新至lec7)](https://github.com/hubery258/Missing-Semester/archive/refs/heads/main.zip)<br>
 [笔记仓库](https://github.com/hubery258/Missing-Semester)
 
 ## shell是什么？
