@@ -9,7 +9,7 @@ Welcome to *Hubery's Dreamland*！I'm a first-year undergraduate majoring in Com
 I'm not the stereotypical cser who appears purely rational. Alongside my technical pursuits, I am deeply drawn to literature. This site therefore is not only about code and other technical content, but also about literature, reflections, and the everyday musings that shape my world. <br>
 For me, Computer Science opens a dreamlike world where I can freely build, create, and express myself————whether in rational or non-rational ways. So I called this site **dreamland**. You're welcome to join me here and share a piece of that dream.<br>
 
-- 🔭 Currently, I'm working on learning *Missing Semester*.
+- 🔭 Currently, I'm working on learning *CS61A*,*Coursera: Machine Learning*,*cs50:AI* adn *MIT Calculus Course*
 - Hobbies:
     - 💻 **Independent software development**
     - 📚 **Reading and Writing**: My favorite writers are Wang Zengqi and Camus and Foucault.[MY TOP 10](https://www.douban.com/doulist/158260489/)

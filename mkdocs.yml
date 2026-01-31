@@ -91,7 +91,7 @@ nav:
       - lec6 git: cs/Missing Semester/lec6.md
       - lec7 调试与性能分析: cs/Missing Semester/lec7.md
   - ZJU:
-    - 大一课程经验: school/zju.md
+    - 大一课程总结: school/zju.md
   - project:
     - Simple Tasker: project/simpletasker.md
   - blog:
