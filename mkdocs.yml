@@ -90,6 +90,8 @@ nav:
       - lec5 命令行环境: cs/Missing Semester/lec5.md
       - lec6 git: cs/Missing Semester/lec6.md
       - lec7 调试与性能分析: cs/Missing Semester/lec7.md
+    - CS61A:
+      - 课程笔记: cs/cs61a/note.md
   - ZJU:
     - 大一课程总结: school/zju.md
   - project:
