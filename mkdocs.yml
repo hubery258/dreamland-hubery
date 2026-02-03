@@ -97,7 +97,6 @@ nav:
   - project:
     - Simple Tasker: project/simpletasker.md
   - blog:
-    - 千问集: life/question.md
     - daily blog: 
       - 25·11: life/pieces/25_11.md
       - 25·12: life/pieces/25_12.md
@@ -117,3 +116,4 @@ nav:
       - 26年1月: life/music/26_1.md
     - 思想笔记:
       - 自律: life\note\focus.md
+    - 千问集: life/question.md
