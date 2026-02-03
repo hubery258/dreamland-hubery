@@ -26,7 +26,7 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
 公众号： “没有时间感的盆栽”
 
 !!! info inline end "上次更新"
-    2026/2/2
+    2026/2/3
 
 ??? note "blog的更新预告"
     为mkdocs增加语言翻译模块，增加c程笔记，增加wechat的social选项，补充文章显示发布时间，增加评论区。后面考虑加友链,完整写写目前mkdocs配置的笔记。
