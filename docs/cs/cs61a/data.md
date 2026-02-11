@@ -138,8 +138,6 @@ True
     - 有一个根标签
     - 分支也要符合上述两个条件/没有分支
 
-[还没看](https://composingprograms.netlify.app/2/3#_2-3-6-%E6%A0%91)
-
 ### 链表
 
 ## 对象(object)
