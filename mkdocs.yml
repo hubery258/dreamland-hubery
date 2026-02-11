@@ -91,7 +91,8 @@ nav:
       - lec6 git: cs/Missing Semester/lec6.md
       - lec7 调试与性能分析: cs/Missing Semester/lec7.md
     - CS61A:
-      - Function: cs/cs61a/function.md
+      - 函数及其抽象: cs/cs61a/function.md
+      - 数据及其抽象: cs/cs61a/data.md
   - ZJU:
     - 大一课程总结: school/zju.md
   - project:
