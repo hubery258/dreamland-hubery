@@ -94,6 +94,7 @@ nav:
       - 函数及其抽象: cs/cs61a/function.md
       - 数据及其抽象: cs/cs61a/data.md
   - ZJU:
+    - fds笔记: school/fds.md
     - 大一课程总结: school/zju.md
   - project:
     - Simple Tasker: project/simpletasker.md
