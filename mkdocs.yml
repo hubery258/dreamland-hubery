@@ -98,11 +98,9 @@ nav:
   - project:
     - Simple Tasker: project/simpletasker.md
   - blog:
-    - daily blog: 
-      - 25·11: life/pieces/25_11.md
-      - 25·12: life/pieces/25_12.md
-      - 26·1: life/pieces/26_1.md
-      - 26·2: life/pieces/2602.md
+    - 碎语: 
+      - 25: life/pieces/25.md
+      - 26: life/pieces/26.md
     - Reading: 
       - 一次讲座: life/reading/好趣味与坏艺术讲座.md
       - 当尼采哭泣: life/reading/nicai.md
@@ -115,7 +113,8 @@ nav:
       - 花束般的恋爱: life/reading/flower_love.md
     - Music:
       - 乐理笔记: life/music/theory.md
-      - 26年1月: life/music/26_1.md
+      - 创作笔记: life/music/rhyme.md
+      - 26年: life/music/26_1.md
     - 思想笔记:
       - 自律: life\note\focus.md
     - 千问集: life/question.md

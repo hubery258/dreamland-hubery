@@ -26,7 +26,7 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
 公众号： “没有时间感的盆栽”
 
 !!! info inline end "上次更新"
-    2026/2/12
+    2026/3/2
 
 ??? note "blog的更新预告"
-    为mkdocs增加c程笔记，增加wechat的social选项，补充文章显示发布时间，增加评论区,以及把闲言碎语的随笔blog清除一些内容（这个部分再考虑一下。。。现在这么写随笔有点不安desuwa），换到blog界面，剩下的原blog挡放到hobbies挡，blog就流畅地记录网站更新以及。后面考虑加友链,完整写写目前mkdocs配置的笔记。
+    增加wechat的social选项，补充文章显示发布时间，增加评论区,以及把闲言碎语的随笔blog清除一些内容（这个部分再考虑一下。。。现在这么写随笔有点不安desuwa），换到blog界面，剩下的原blog挡放到hobbies挡，blog就流畅地记录网站更新以及。后面考虑加友链,完整写写目前mkdocs配置的笔记。
