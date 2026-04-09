@@ -76,6 +76,8 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.arithmatex
+  - pymdownx.tasklist:
+      custom_checkbox: true # 启用待办拓展
 
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
@@ -128,6 +130,9 @@ nav:
       - 绝叫: life/reading/shoutout.md
       - 冯友兰哲学: life/reading/life_philo.md
       - 汪曾祺写作: life/reading/writing.md
+      - 福柯系列:
+        - 前言: life/reading/foucault/index.md
+        - 如何阅读福柯: life/reading/foucault/how_to_read.md
     - Music:
       - 乐理笔记: life/music/theory.md
       - 创作笔记: life/music/rhyme.md

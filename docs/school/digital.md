@@ -158,7 +158,7 @@ through 2n- 1, each Gray code word may be formed directly from the correspond
 ing binary code word by copying its leftmost bit and then replacing each of the 
 remaining bits with the even parity of the bit of the number and the bit to its left.
 
-!!! 自己再去理解一下啊哥
+!!! 自己再去理解一下啊
     所以实际的 hexadecimal Gray code就是把最底层的0~15这16个数字先转成二进制(因为最高用到第四位所以就是4位二进制)，然后在四位二进制的基础上取格雷码，再转回去。其他的比如8进制gray code就是把0~7这8个数转成3位二进制？那么如果要表示12这样的十六进制呢？
     见ai对话“格雷码” copilot篇
     十六进制格雷码表只定义了 0~F 这 16 个基本符号。
@@ -171,9 +171,26 @@ remaining bits with the even parity of the bit of the number and the bit to its 
     十六进制 1 → 格雷码 1
     十六进制 2 → 格雷码 3
     所以十六进制数 12 的格雷码表示就是 13。
+    *这个部分可以push进修的仓库*
 
 ## chapter 2 
 
 - 对偶原则与互补函数
 
 - Shannon formula(见ppt57)
+
+- SOM与POM:
+    - SOM就是挑出所有使值为1的组合然后or，达到 **有1出1** 的目的
+    - POM则挑出所有值为0的or组合然后and，达到 **有0出0** 的目的
+
+### 电路实现与优化
+
+*此处按照字面量记写了两次，可以改一改*
+
+#### 衡量标准
+
+L,G,GN
+
+#### 卡诺图
+
+减少G
