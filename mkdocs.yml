@@ -75,7 +75,12 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-  - pymdownx.arithmatex
+  - pymdownx.arithmatex:
+      generic: true
+      block_syntax:
+        - dollar
+        - square
+        - begin
   - pymdownx.tasklist:
       custom_checkbox: true # 启用待办拓展
 
@@ -130,6 +135,7 @@ nav:
       - 绝叫: life/reading/shoutout.md
       - 冯友兰哲学: life/reading/life_philo.md
       - 汪曾祺写作: life/reading/writing.md
+      - 地粮·天粮: life/reading/food.md
       - 福柯系列:
         - 前言: life/reading/foucault/index.md
         - 如何阅读福柯: life/reading/foucault/how_to_read.md
