@@ -24,7 +24,7 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
 公众号： “没有时间感的盆栽”
 
 !!! info inline end "上次更新"
-    2026/5/5
+    2026/5/21
 
 ??? note "blog的更新预告"
     - [ ]增加wechat的social选项，补充文章显示发布时间，增加评论区

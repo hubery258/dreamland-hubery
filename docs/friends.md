@@ -14,7 +14,7 @@
 <div class="flink-list">
 
 <div class="flink-list-item">
-    <a href="https://yanzhuchen0901.github.io/" title="Chenのhomepage" target="_blank">
+    <a href="https://Bamb0oChen.github.io/" title="Chenのhomepage" target="_blank">
         <div class="flink-item-icon">
             <img src="https://s41.ax1x.com/2026/03/14/peEcPHK.png" alt="chen">
         </div>

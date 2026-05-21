@@ -111,16 +111,23 @@ nav:
     - CS61A:
       - 函数及其抽象: cs/cs61a/function.md
       - 数据及其抽象: cs/cs61a/data.md
+    - 前端:
+      - JavaScript: cs/js.md
   - ZJU:
     - 数据结构基础 | fds: 
       - chapter 2 Algorithm analysis: school/fds/chap2.md
       - chapter 3 List,Stacks,Queues: school/fds/chap3.md
       - chapter 4 Trees: school/fds/chap4.md
+      - chapter 5 Heaps: school/fds/chap5.md
+      - chapter 8: school/fds/chap8.md
     - 数字逻辑设计: school/digital.md
+    - verilog笔记: school/verilog.md
     - 离散数学: school/dm.md
     - 大一课程总结: school/zju.md
   - project:
     - Simple Tasker: project/simpletasker.md
+    - dreamland(blog):
+      - 逆向学习手册: project/dreamland/study.md
   - 文艺向:
     - Reading: 
       - 一次讲座: life/reading/好趣味与坏艺术讲座.md
