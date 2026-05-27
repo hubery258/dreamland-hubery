@@ -93,7 +93,11 @@ repo_name: note
 nav:
   - Home: index.md
   - CS:
-    - CS50X: cs/CS50X.md
+    - CS50X: 
+      - index: cs/CS50X.md
+      - sql: cs/cs50x/sql.md
+      - 前端三件套: cs/cs50x/html.md
+      - flask与后端: cs/cs50x/flask.md
     - Computer Science Crash Course: cs/cs速成.md
     - markdown笔记: cs/md.md
     - blog配置相关:
@@ -113,6 +117,8 @@ nav:
       - 数据及其抽象: cs/cs61a/data.md
     - 前端:
       - JavaScript: cs/js.md
+    - 开发:
+      - ddd: cs/ddd.md
   - ZJU:
     - 数据结构基础 | fds: 
       - chapter 2 Algorithm analysis: school/fds/chap2.md
