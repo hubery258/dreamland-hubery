@@ -1,5 +1,5 @@
 site_name: Hubery's notebook
-site_url: https://hubery258.github.io/notebook/
+site_url: https://note.ramenboy.cc/
 
 theme:
   name: material
@@ -119,6 +119,7 @@ nav:
       - JavaScript: cs/js.md
     - 开发:
       - ddd: cs/ddd.md
+    - ai扫盲: cs/ai.md
   - ZJU:
     - 数据结构基础 | fds: 
       - chapter 2 Algorithm analysis: school/fds/chap2.md
@@ -126,6 +127,7 @@ nav:
       - chapter 4 Trees: school/fds/chap4.md
       - chapter 5 Heaps: school/fds/chap5.md
       - chapter 8: school/fds/chap8.md
+      - chapter 9: school/fds/chap9.md
     - 数字逻辑设计: school/digital.md
     - verilog笔记: school/verilog.md
     - 离散数学: school/dm.md

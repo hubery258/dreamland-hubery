@@ -14,7 +14,7 @@ hello!这里是Hubery的**notebook**。我是浙江大学的大一计算机专�
     - 🎵 **音乐**：我在努力学乐理以及音乐制作，希望能写出自己的第一首歌乃至第一张专辑！！我最喜欢的歌手是鹤The Crane以及Daniel Caesar.[我最喜欢的十张专辑](https://www.douban.com/doulist/157347519/)
 
 # Contact Me:
-[生活化blog](https://hubery258.github.io/)<br>
+[生活化blog](https://blog.ramenboy.cc)<br>
 [知乎](https://www.zhihu.com/people/hubery-62-3 "有时回答一些问题") <br>
 [bilibili](https://space.bilibili.com/2134294131/favlist?fid=2880045931) <br>
 [github](https://github.com/hubery258)<br>
@@ -24,7 +24,7 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
 公众号： “没有时间感的盆栽”
 
 !!! info inline end "上次更新"
-    2026/5/27
+    2026/7/10
 
 ??? note "blog的更新预告"
     - [ ]增加wechat的social选项，补充文章显示发布时间，增加评论区

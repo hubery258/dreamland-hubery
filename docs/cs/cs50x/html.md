@@ -48,7 +48,7 @@ domine name <-> DNS <-> IP
 - https in this address is the protocol that is used to connect to that web address. By protocol, we mean that HTTP utilizes `GET` or `POST` requests to ask for information from a server. When you open the developer tools(右键inspect/检查进入开发者工具) and visit `Network`, selecting `Preserve log`, you will see `Request Headers`. You’ll see mentions of `GET`:
 ![GET](GET.png)
 
-- You can analyze the work of HTTP protocols at ![cs50.dev](cs50.dev). For example, type the following in your terminal window:
+- You can analyze the work of HTTP protocols at [cs50.dev](cs50.dev). For example, type the following in your terminal window:
 ```
 curl -I https://www.harvard.edu/
 // connect URL

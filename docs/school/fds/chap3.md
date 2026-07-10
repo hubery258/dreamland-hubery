@@ -81,10 +81,6 @@
         return 0;
     }
     ```
-? 智云check multilists reprensentation2的意思
-教材该读的地方读一下 13,6,14,
-
-还不够明白 cursor space以及repre 2，其他的掌握了
 
 ## Stack(栈)
 
