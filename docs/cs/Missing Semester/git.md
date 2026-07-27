@@ -1,5 +1,5 @@
-# GIT brief introduction from cs50
-[course link](https://www.youtube.com/watch?v=MJUJ4wbFm_A&t=26s)
+# GIT brief introduction
+[cs50 course link](https://www.youtube.com/watch?v=MJUJ4wbFm_A&t=26s)
 
 ## ❓what is git and what can it do for me?
 - 代码/文件管理工具
@@ -50,8 +50,10 @@ int b = 0;  (别人的修改)
 - `git clone <url>`，从远程仓库中copy一份，存在自己的电脑里
 - `git pull`把线上仓库更改下载到本地仓库，可能出现
     - `git fetch`从远端获取对象/索引+`git merge`等价于`git pull`
-- `git push`提交到远程仓库（没有访问权的话必须要先pull request）
+- `git push`提交到远程仓库
     - `git push <remote> <local branch>:<remote branch>`将对象传送至远端并更新远端引用
+    - `git push -u origin xx` 本地分支`xx`第一次传到远端
+        - `-u`(`--set-upstream`)把`xx`分支推送到远程，同时把本地xx与远程建立追踪关系，以后就可以直接git push
 
 ## 撤销
 - `git commit --amend`: 编辑提交的内容或信息
@@ -61,3 +63,20 @@ int b = 0;  (别人的修改)
 
 [其他操作](https://missing-semester-cn.github.io/2020/version-control/#:~:text=Git%20%E9%AB%98%E7%BA%A7%E6%93%8D%E4%BD%9C,%E8%BF%BD%E8%B8%AA%E7%9A%84%E6%96%87%E4%BB%B6)<br>
 [git其他资源](https://missing-semester-cn.github.io/2020/version-control/#:~:text=%E8%B5%84%E6%BA%90,%E6%9D%A5%E5%AD%A6%E4%B9%A0%20Git%20%EF%BC%9B)
+
+## 更多日用补充
+
+!!! note "`.gitignore`基本用法"
+    - 直接一行一行输入你要git忽略的文件即可
+    - `*`作为通配符依然成立
+    - 如果是忽略所有文件中的`__pycache__/`文件，就直接写`__pycache__/`
+    - 忽略根目录下的文件示例: `/debug.log`
+    - 忽略`hw01/ok`这个文件(相对路径): `hw01/ok`
+    - 忽略任意深度的 `tests` 目录：`**/tests/`
+    - 取反,不忽略这个文件（例外）: `!important.pyc`
+
+注意已经追踪的文件不会自动被忽略，移除索引操作:
+
+- `git rm -r --cached __pycache__/`: `--cached` 表示只从 git 移除，不删本地文件
+- `git rm -r --cached .`: 可以先直接把所有文件都从index中移除，然后再用add重新添加即可
+    - `-r`是recursive,对于目录操作的时候需要递归，逻辑是删目录时 git 默认拒绝（怕你误删一堆文件），加 `-r` 表示"我知道这是个目录，递归删掉里面所有东西",这个逻辑在shell命令里通用规则，比如`rm -r dir/`等等
