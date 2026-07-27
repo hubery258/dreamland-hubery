@@ -99,12 +99,7 @@ nav:
       - 前端三件套: cs/cs50x/html.md
       - flask与后端: cs/cs50x/flask.md
     - Computer Science Crash Course: cs/cs速成.md
-    - markdown笔记: cs/md.md
-    - blog配置相关:
-      - mkdocs配置: cs/mkdocs.md
-      - jekyll配置: cs/jekyll.md
     - Missing Semester: 
-      - git: cs/Missing Semester/git.md
       - lec1 SHELL: cs/Missing Semester/lec1.md
       - lec2 SHELL脚本: cs/Missing Semester/lec2.md 
       - lec3 Vim: cs/Missing Semester/lec3.md
@@ -119,6 +114,12 @@ nav:
       - JavaScript: cs/js.md
     - 开发:
       - ddd: cs/ddd.md
+	- 工具:
+	  - docker: cs/tools/docker.md
+      - git: cs/Missing Semester/git.md
+	  - markdown: cs/md.md
+      - mkdocs配置: cs/mkdocs.md
+      - jekyll配置: cs/jekyll.md
     - ai扫盲: cs/ai.md
   - ZJU:
     - 数据结构基础 | fds: 
