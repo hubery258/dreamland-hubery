@@ -114,13 +114,13 @@ nav:
       - JavaScript: cs/js.md
     - 开发:
       - ddd: cs/ddd.md
-	- 工具:
-	  - docker: cs/tools/docker.md
+    - 工具:
+      - docker: cs/tools/docker.md
       - git: cs/Missing Semester/git.md
-	  - markdown: cs/md.md
+      - markdown: cs/md.md
       - mkdocs配置: cs/mkdocs.md
       - jekyll配置: cs/jekyll.md
-    - ai扫盲: cs/ai.md
+      - ai扫盲: cs/ai.md
   - ZJU:
     - 数据结构基础 | fds: 
       - chapter 2 Algorithm analysis: school/fds/chap2.md
