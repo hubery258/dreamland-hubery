@@ -58,8 +58,26 @@ int b = 0;  (别人的修改)
 ## 撤销
 - `git commit --amend`: 编辑提交的内容或信息
 - `git reset HEAD <file>`: 恢复暂存的文件,`HEAD`是指分支名
+	- 工作区有未暂存内容强制回退：` git reset --hard HEAD #永久删除工作区和暂存区的所有未提交修改`
 - `git checkout -- <file>`: 丢弃修改
 - `git restore`: git2.32 版本后取代 `git reset` 进行许多撤销操作
+	- `git restore --source=<目标版本> <文件路径>`,`<目标版本>：可以是 Commit Hash（如 `a1b2c3d`）、分支名（如 `main`）、相对位置（如 `HEAD~3` 表示往回数 3 个版本）
+	- 不记得hash: `git log --oneline -- <文件路径>`
+- `git revert HEAD`: 已经提交了一次，回退一次
+
+!!! note "reset不同操作"
+
+	| 命令 | 仓库历史指针 | 暂存区（Index） | 工作区（文件） | 适用场景 |
+	| :--- | :--- | :--- | :--- | :--- |
+	| `git reset --soft <提交ID>` | ✅ 回退 | ❌ 不动（保留原改动） | ❌ 不动 | 想把最近几次提交合并成一个，重新提交 |
+	| `git reset --mixed <提交ID>`<br>（默认） | ✅ 回退 | ✅ 清空（回到未暂存状态） | ❌ 不动 | 想把之前提交的改动撤回来，保留代码慢慢改 |
+	| `git reset --hard <提交ID>` | ✅ 回退 | ✅ 清空 | ✅ **强行覆盖** | 彻底不要这之后的代码了，本地和仓库完全变成旧版 |
+
+	**举例**：想彻底回到 3 个提交前的状态（所有文件都变成那时候的样子）：
+	```bash
+	git reset --hard HEAD~3
+	```
+	> 🚨 **致命警告**：如果这些提交已经推送到远程仓库，并且别人拉取过，**绝对不要用 `git reset --hard`**，否则别人下次推送时会和你冲突得一塌糊涂，协作项目直接崩盘。
 
 [其他操作](https://missing-semester-cn.github.io/2020/version-control/#:~:text=Git%20%E9%AB%98%E7%BA%A7%E6%93%8D%E4%BD%9C,%E8%BF%BD%E8%B8%AA%E7%9A%84%E6%96%87%E4%BB%B6)<br>
 [git其他资源](https://missing-semester-cn.github.io/2020/version-control/#:~:text=%E8%B5%84%E6%BA%90,%E6%9D%A5%E5%AD%A6%E4%B9%A0%20Git%20%EF%BC%9B)
@@ -80,3 +98,4 @@ int b = 0;  (别人的修改)
 - `git rm -r --cached __pycache__/`: `--cached` 表示只从 git 移除，不删本地文件
 - `git rm -r --cached .`: 可以先直接把所有文件都从index中移除，然后再用add重新添加即可
     - `-r`是recursive,对于目录操作的时候需要递归，逻辑是删目录时 git 默认拒绝（怕你误删一堆文件），加 `-r` 表示"我知道这是个目录，递归删掉里面所有东西",这个逻辑在shell命令里通用规则，比如`rm -r dir/`等等
+
