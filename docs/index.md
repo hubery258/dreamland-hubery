@@ -24,11 +24,7 @@ email: [hubery8065@hotmail.com](mailto:hubery8065@hotmail.com)
 公众号： “没有时间感的盆栽”
 
 !!! info inline end "上次更新"
-    2026/7/27
+    2026/8/31
 
 ??? note "blog的更新预告"
-    - [ ]增加wechat的social选项，补充文章显示发布时间，增加评论区
-    - [x]后面考虑加友链
-    - [ ]界面显示优化，给每一个顶级目录配一个index，以及为课程设置一个index
-    - [ ]完整写写目前mkdocs配置的笔记
     - [ ]配置数学公式插件
